@@ -5,7 +5,7 @@
 #
 # ~/.zsh_plugins.txt:
 #
-#   your-user/container.plugin.zsh
+#   contactsetya-maker/container.plugin.zsh
 #
 # Supports:
 #   LXC / LXD
